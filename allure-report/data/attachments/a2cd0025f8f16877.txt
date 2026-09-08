@@ -1,3 +1,0 @@
-testuser001 Status: 200
-testuser001 Response: {"errorMessage":"This user already exist."}
-
