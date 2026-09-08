@@ -1,0 +1,3 @@
+testuser003 Status: 200
+testuser003 Response: {"errorMessage":"This user already exist."}
+
